@@ -21,8 +21,6 @@ public class GetWords {
 
         // Start Wordle game with British words as the word bank
         Scanner scanner = new Scanner(System.in);
-        String correctWord = "advert"; // Example, change this with the logic to pick a random word from the bank
-
         System.out.println("Welcome to British Slang Wordle!");
         System.out.println("Try to guess the British slang word:");
 
