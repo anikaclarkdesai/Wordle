@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GetBritishWords",
+            "request": "launch",
+            "mainClass": "GetBritishWords",
+            "projectName": "Wordle_85e38f95"
+        },
+        {
+            "type": "java",
+            "name": "GetWords",
+            "request": "launch",
+            "mainClass": "GetWords",
+            "projectName": "Wordle_85e38f95"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
